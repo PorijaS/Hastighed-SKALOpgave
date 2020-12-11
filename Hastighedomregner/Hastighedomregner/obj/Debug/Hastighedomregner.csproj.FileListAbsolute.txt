@@ -1,0 +1,11 @@
+C:\Users\Porija\Documents\Visual Studio 2019\Projects\Hastighedomregner\Hastighedomregner\bin\Debug\Hastighedomregner.exe.config
+C:\Users\Porija\Documents\Visual Studio 2019\Projects\Hastighedomregner\Hastighedomregner\bin\Debug\Hastighedomregner.exe
+C:\Users\Porija\Documents\Visual Studio 2019\Projects\Hastighedomregner\Hastighedomregner\bin\Debug\Hastighedomregner.pdb
+C:\Users\Porija\Documents\Visual Studio 2019\Projects\Hastighedomregner\Hastighedomregner\obj\Debug\Hastighedomregner.csprojAssemblyReference.cache
+C:\Users\Porija\Documents\Visual Studio 2019\Projects\Hastighedomregner\Hastighedomregner\obj\Debug\Hastighedomregner.Form1.resources
+C:\Users\Porija\Documents\Visual Studio 2019\Projects\Hastighedomregner\Hastighedomregner\obj\Debug\Hastighedomregner.Properties.Resources.resources
+C:\Users\Porija\Documents\Visual Studio 2019\Projects\Hastighedomregner\Hastighedomregner\obj\Debug\Hastighedomregner.csproj.GenerateResource.cache
+C:\Users\Porija\Documents\Visual Studio 2019\Projects\Hastighedomregner\Hastighedomregner\obj\Debug\Hastighedomregner.csproj.CoreCompileInputs.cache
+C:\Users\Porija\Documents\Visual Studio 2019\Projects\Hastighedomregner\Hastighedomregner\obj\Debug\Hastighedomregner.exe
+C:\Users\Porija\Documents\Visual Studio 2019\Projects\Hastighedomregner\Hastighedomregner\obj\Debug\Hastighedomregner.pdb
+C:\Users\Porija\Documents\Visual Studio 2019\Projects\Hastighedomregner\Hastighedomregner\obj\Debug\Hastighedomregner.Form2.resources
